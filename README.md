@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harshad Sanjay Bhavar
 ==============================================================================================================================================
 
-Software Developer
+Jav Full-Stack Developer
 ------------------
 
 I am an Entry-Level Java Developer passionate about building scalable backend applications and clean, maintainable code. With hands-on experience in Core Java, Spring Boot, Hibernate, SQL, and REST APIs, I enjoy solving complex problems and applying OOP & DSA concepts to deliver efficient solutions.
